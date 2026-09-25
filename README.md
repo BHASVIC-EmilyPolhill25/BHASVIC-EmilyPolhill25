@@ -1,6 +1,6 @@
 # About Me
 
-I am currently a Year 12 student studying Computer Science, Mathematics, and Environmental Science at BHASVIC College.  
+I am currently a Year 13 student studying Computer Science, Mathematics, and Environmental Science at BHASVIC College.  
 
 After completing my A Levels, I plan to study Computer Science at university and pursue a career within the technology industry.  
 
